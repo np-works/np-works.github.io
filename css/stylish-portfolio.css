@@ -378,10 +378,13 @@ a:hover, a:focus, a:active {
 .professional-pic {
   background-color: #fff;
   color: #c1b8cf;
-  height: 12.5rem;
-  width: 12.5rem;
+  height: 14rem;
+  width: 14rem;
   display: block;
   line-height: 7.5rem;
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+#about_title{
+  font-size:2.75rem;
 }
