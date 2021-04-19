@@ -248,7 +248,7 @@ h6 {
 
 .portfolio-item .caption .caption-content {
   color: #fff;
-  margin: 5rem 2rem 2rem;
+  margin: 13% 2rem 2rem;
 }
 
 .portfolio-item .caption .caption-content h2 {
@@ -295,6 +295,17 @@ h6 {
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
+}
+
+/* changing font-size of portfolio items */
+@media (max-width: 400px) {
+.portfolio-item .caption .caption-content p {
+  font-weight: 300;
+  font-size: .8rem;
+}
+.h2, h2 {
+  font-size: 1.2rem;
+}
 }
 
 .map iframe {
