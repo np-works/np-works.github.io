@@ -244,6 +244,7 @@ h6 {
   top: 0;
   bottom: 0;
   z-index: 1;
+  opacity:0;
 }
 
 .portfolio-item .caption .caption-content {
@@ -294,6 +295,7 @@ h6 {
     background-color: rgba(29, 128, 159, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
+    opacity:1;
   }
 }
 
