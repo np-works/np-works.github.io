@@ -353,6 +353,10 @@ a:hover {
 .lead {
 	text-align: left;
 }
+
+.about-me-img-column {
+	align-self: center;
+}
 @media (max-width: 400px) {
 	.portfolio-item .caption .caption-content p {
 		font-weight: 300;
